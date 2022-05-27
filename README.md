@@ -1,5 +1,5 @@
 # beacademy-devstart-gitegithub
-Repositório criado para armazenar os entregáveis do projeto Devstart da edtech BeAcademy, sendo este o primeiro - referente ao conteúdo de GIT e GitHub.
+Repositório criado para armazenar o entregável do projeto Devstart da edtech BeAcademy, referente ao conteúdo de GIT e GitHub.
 
 Abaixo encontram-se algumas informações referentes aos comandos GIT mais popularmente utilizados.
 
